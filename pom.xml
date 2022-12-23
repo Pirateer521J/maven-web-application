@@ -86,13 +86,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>reposis-release</name>
-	      <url>http://172.168.0.105:8081/repository/reposis-release</url>
+	      <url>http://172.168.0.105:8051/repository/reposis-release</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>reposis-snapsho</name>
-	      <url>http://172.168.0.105:8081/repository/reposis-snapshot</url>
+	      <url>http://172.168.0.105:8051/repository/reposis-snapshot</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
